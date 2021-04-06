@@ -21,6 +21,7 @@ int dr[] = { -1,-1,-1,0,0,1,1,1 };
 int dc[] = { -1,0,1,-1,1,-1,0,1 };
 int answer = 0;
 int main(void) {
+	printf("software engineering homework test1");
 	//freopen("input.txt", "r", stdin);
 
 	scanf("%d %d %d", &N, &M, &K);
