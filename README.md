@@ -1,6 +1,4 @@
-💚
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kimziou77})](https://solved.ac/{kimziou77})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimziou77)](https://solved.ac/{kimziou77}) 
 
 <div align="center">
   
